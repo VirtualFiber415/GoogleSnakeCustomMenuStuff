@@ -390,7 +390,7 @@ window.snake.more_menu = function(e) {
               else {
                 for(let i = 0; i < (
                   ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 7
-                    ? 200
+                    ? 300
                   : 20000
                 ); i++)
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
